@@ -44,9 +44,10 @@ ul.posts li {
 
 #blurb ul { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 #blurb ul li {
     list-style: none;
+    padding: 1;
 }
