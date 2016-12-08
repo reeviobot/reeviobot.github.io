@@ -42,12 +42,12 @@ ul.posts li {
     list-style: none;
 }
 
-ul { 
+blurb ul { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
-ul li {
+blurb ul li {
     padding-left: 20px;
     padding-bottom: 20px;
 }
