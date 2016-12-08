@@ -49,5 +49,6 @@ ul {
 
 ul li {
     list-style: none;
-    padding: 1;
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
