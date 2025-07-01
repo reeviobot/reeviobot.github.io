@@ -1,0 +1,21 @@
+{
+  "name": "reeviobot.github.io",
+  "version": "1.0.0",
+  "description": "Playing around with Github Pages and Jekyll",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tinacms dev -c \"cd /Users/reevio/Documents/GitHub/reeviobot.github.io && jekyll serve --source /Users/reevio/Documents/GitHub/reeviobot.github.io --destination /Users/reevio/Documents/GitHub/reeviobot.github.io/_site\"",
+    "build": "npx tinacms build && jekyll build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^2.7.9"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.9.9",
+    "@types/node": "^24.0.8"
+  }
+}
